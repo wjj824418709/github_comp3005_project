@@ -3,7 +3,7 @@ Name: Jiajun Wu
 Course: COMP3005A
 Project Code
 
-# Foobar
+# Purpose
 
 This is a demo for COMP3005A project
 
